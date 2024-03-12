@@ -1,0 +1,15 @@
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\HOCKY5\PRN211\Ass03Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\HOCKY5\PRN211\Ass03Solution\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
